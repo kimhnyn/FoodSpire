@@ -1,0 +1,4 @@
+flask
+Authlib
+requests
+flask-sqlalchemy
